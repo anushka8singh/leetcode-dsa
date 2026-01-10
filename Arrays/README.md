@@ -21,9 +21,17 @@ using two pointers
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/rotate-array/submissions/1880961325
 
-#Idea:
+# Idea:
 create a simple reverse function 
 then in rorate function call reverse to:-
 1)reverse the whole array
 2)reverse the first k elements
 3)reverse the remaining array elements
+
+### Move Zeroes
+**Dificulty:** Easy
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/move-zeroes/submissions/1881017634
+
+# Idea:
+Using two pointers 
