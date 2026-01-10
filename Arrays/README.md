@@ -15,3 +15,15 @@ If more than one break → not valid.
 
 #Idea:
 using two pointers
+
+### 189 - Rotate Array
+**Difficulty:** Easy
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/rotate-array/submissions/1880961325
+
+#Idea:
+create a simple reverse function 
+then in rorate function call reverse to:-
+1)reverse the whole array
+2)reverse the first k elements
+3)reverse the remaining array elements
