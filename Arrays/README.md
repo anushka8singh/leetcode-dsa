@@ -24,9 +24,9 @@ using two pointers
 # Idea:
 create a simple reverse function 
 then in rorate function call reverse to:-
-1)reverse the whole array
-2)reverse the first k elements
-3)reverse the remaining array elements
+1.reverse the whole array
+2.reverse the first k elements
+3.reverse the remaining array elements
 
 ### Move Zeroes
 **Dificulty:** Easy
@@ -35,3 +35,13 @@ then in rorate function call reverse to:-
 
 # Idea:
 Using two pointers 
+
+
+### 268-Missing number
+**Difficulty:**Easy
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/missing-number/submissions/1883087951
+
+# Idea:
+using sum of n natural numbers
+(expected sum - actual sum)
