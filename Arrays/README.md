@@ -45,3 +45,11 @@ Using two pointers
 # Idea:
 using sum of n natural numbers
 (expected sum - actual sum)
+
+### 485-max consecutive ones
+**Difficulty:**Easy
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/max-consecutive-ones/submissions/1883940743
+
+# Idea:
+using sliding windows concept
