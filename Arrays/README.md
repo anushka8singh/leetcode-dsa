@@ -53,3 +53,11 @@ using sum of n natural numbers
 
 # Idea:
 using sliding windows concept
+
+### 136. Single Number 
+**Difficulty:**Easy
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/single-number/submissions/1884927889
+
+# Idea: 
+Using properties of XOR
