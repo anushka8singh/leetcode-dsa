@@ -61,3 +61,11 @@ using sliding windows concept
 
 # Idea: 
 Using properties of XOR
+
+### 1.Two sum
+**Difficulty:**Easy
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/two-sum/submissions/1886105176
+
+# Idea:
+using hashmap 
