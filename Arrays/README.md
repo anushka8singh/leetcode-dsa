@@ -69,3 +69,11 @@ Using properties of XOR
 
 # Idea:
 using hashmap 
+
+### 75.Sort colors
+**Difficulty:**Medium
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/sort-colors/submissions/1887050465
+
+# Idea:
+used bubble sort
