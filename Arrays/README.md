@@ -77,3 +77,11 @@ using hashmap
 
 # Idea:
 used bubble sort
+
+### 88. Merge sorted array
+**Difficulty:**Easy
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/merge-sorted-array/submissions/1897590144
+
+# Idea:
+used two pointers
