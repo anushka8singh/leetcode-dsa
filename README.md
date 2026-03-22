@@ -1,4 +1,4 @@
-# LeetCode Daily Practice 🚀
+# LeetCode DSA Practice 🚀
 
-This repository tracks my daily LeetCode problem solving.
+This repository tracks my LeetCode problem solving.
 
