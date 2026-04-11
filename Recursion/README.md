@@ -8,3 +8,8 @@
 **Difficulty:**medium
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/combination-sum-ii/submissions/1956112201
+
+### 46. Permutation
+**Difficulty:**medium
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/permutations/submissions/1975358955
