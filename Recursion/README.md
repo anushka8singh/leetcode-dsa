@@ -19,3 +19,9 @@
 **Difficulty:**hard
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/n-queens/submissions/1976277240
+
+
+### 37.Sudoku Solver
+**Difficulty:**hard
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/sudoku-solver/submissions/1976343785
