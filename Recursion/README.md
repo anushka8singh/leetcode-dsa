@@ -13,3 +13,9 @@
 **Difficulty:**medium
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/permutations/submissions/1975358955
+
+
+### 51.N Queens
+**Difficulty:**hard
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/n-queens/submissions/1976277240
