@@ -91,3 +91,9 @@ used two pointers
 
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/patching-array/submissions/1978474808
+
+
+### 4.Median of Two Sorted Arrays
+**Difficulty:**hard
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1978478839
