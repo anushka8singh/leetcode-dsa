@@ -85,3 +85,9 @@ used bubble sort
 
 # Idea:
 used two pointers
+
+### 330 . Patching array
+**Difficulty:**hard
+
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/patching-array/submissions/1978474808
