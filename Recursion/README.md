@@ -15,6 +15,10 @@
 🔗 My LeetCode Solution:https://leetcode.com/problems/permutations/submissions/1975358955
 
 
+### 47. Permutation 2
+**Difficulty:**medium
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/permutations-ii/submissions/1979455803
 ### 51.N Queens
 **Difficulty:**hard
 
