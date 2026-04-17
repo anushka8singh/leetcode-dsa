@@ -97,3 +97,9 @@ used two pointers
 **Difficulty:**hard
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1978478839
+
+
+### 525. Contiguous Array
+**Difficulty:**Medium
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/contiguous-array/submissions/1981167605
