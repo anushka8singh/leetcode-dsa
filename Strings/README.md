@@ -18,3 +18,9 @@ swapping
 **Difficulty:**Medium
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/multiply-strings/submissions/1986418631
+
+
+1768. Merge Strings Alternately
+**Difficulty:**Easy
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/merge-strings-alternately/submissions/1986421547
