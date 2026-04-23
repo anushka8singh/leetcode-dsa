@@ -13,3 +13,8 @@ swapping
 **Difficulty:**Easy
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/add-strings/submissions/1981857368
+
+### 43. Multiply Strings
+**Difficulty:**Medium
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/multiply-strings/submissions/1986418631
