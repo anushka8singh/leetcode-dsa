@@ -103,3 +103,9 @@ used two pointers
 **Difficulty:**Medium
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/contiguous-array/submissions/1981167605
+
+
+### 31. Next Permutation
+**Difficulty:**Medium
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/next-permutation/submissions/1988854598
