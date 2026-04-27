@@ -109,3 +109,10 @@ used two pointers
 **Difficulty:**Medium
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/next-permutation/submissions/1988854598
+
+
+
+### 561. Array Partition
+**Difficulty:**Easy
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/array-partition/submissions/1989640507
