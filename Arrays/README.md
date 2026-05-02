@@ -124,3 +124,11 @@ used two pointers
 
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/array-nesting/submissions/1992762422
+
+
+
+
+896. Monotonic Array
+**Difficulty:**Easy
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/monotonic-array/submissions/1993565336
