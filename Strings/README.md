@@ -24,3 +24,10 @@ swapping
 **Difficulty:**Easy
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/merge-strings-alternately/submissions/1986421547
+
+
+
+205. Isomorphic Strings
+**Difficulty:**Easy
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/isomorphic-strings/submissions/1995181352
