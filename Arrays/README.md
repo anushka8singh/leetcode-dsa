@@ -132,3 +132,10 @@ used two pointers
 **Difficulty:**Easy
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/monotonic-array/submissions/1993565336
+
+
+2. Add Two Numbers
+**Difficulty:**Medium
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/add-two-numbers/submissions/2011648511
+
