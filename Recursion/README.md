@@ -29,3 +29,8 @@
 **Difficulty:**hard
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/sudoku-solver/submissions/1976343785
+
+### 131. Palindrome Partitioning
+**Difficulty:**medium
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/palindrome-partitioning/submissions/2016600920
