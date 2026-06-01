@@ -34,3 +34,9 @@
 **Difficulty:**medium
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/palindrome-partitioning/submissions/2016600920
+
+
+60. Permutation Sequence
+**Difficulty:**hard
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/permutation-sequence/submissions/2019490905
