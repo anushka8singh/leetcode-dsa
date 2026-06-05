@@ -119,7 +119,7 @@ used two pointers
 
 
 
-565. Array Nesting
+### 565. Array Nesting
 **Difficulty:**Medium
 
 
@@ -128,14 +128,18 @@ used two pointers
 
 
 
-896. Monotonic Array
+### 896. Monotonic Array
 **Difficulty:**Easy
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/monotonic-array/submissions/1993565336
 
 
-2. Add Two Numbers
+### 2. Add Two Numbers
 **Difficulty:**Medium
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/add-two-numbers/submissions/2011648511
 
+### 3379. Transformed Array
+**Difficulty:**Easy
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/transformed-array/submissions/2023531429
