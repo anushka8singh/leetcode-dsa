@@ -143,3 +143,9 @@ used two pointers
 **Difficulty:**Easy
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/transformed-array/submissions/2023531429
+
+
+### 932. Beautiful Array
+**Difficulty:**Medium
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/beautiful-array/submissions/2025596187
