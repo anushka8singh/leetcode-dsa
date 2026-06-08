@@ -149,3 +149,10 @@ used two pointers
 **Difficulty:**Medium
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/beautiful-array/submissions/2025596187
+
+
+
+### 1146. Snapshot Array
+**Difficulty:**Medium
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/snapshot-array/submissions/2026583841
