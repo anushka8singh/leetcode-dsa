@@ -8,3 +8,6 @@
 
 ### 876. Middle of the Linked List
 🔗 My LeetCode Solution:https://leetcode.com/problems/middle-of-the-linked-list/submissions/2090280963
+
+### 206. Reverse Linked List
+🔗 My LeetCode Solution:https://leetcode.com/problems/reverse-linked-list/submissions/2090487748
