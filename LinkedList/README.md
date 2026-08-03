@@ -17,3 +17,6 @@
 
 ### 142. Linked List Cycle II
 🔗 My LeetCode Solution:https://leetcode.com/problems/linked-list-cycle-ii/submissions/2092226278
+
+### 234. Palindrome Linked List
+🔗 My LeetCode Solution:https://leetcode.com/problems/palindrome-linked-list/submissions/2092769610
