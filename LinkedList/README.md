@@ -20,3 +20,8 @@
 
 ### 234. Palindrome Linked List
 🔗 My LeetCode Solution:https://leetcode.com/problems/palindrome-linked-list/submissions/2092769610
+
+
+### 328. Odd Even Linked List
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/odd-even-linked-list/submissions/2094407405
