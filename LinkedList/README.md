@@ -25,3 +25,7 @@
 ### 328. Odd Even Linked List
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/odd-even-linked-list/submissions/2094407405
+
+### 19. Remove Nth Node From End of List
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/2096668174
