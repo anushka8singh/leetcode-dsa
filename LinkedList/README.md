@@ -33,3 +33,7 @@
 ### 2095. Delete the Middle Node of a Linked List
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/2096694368
+
+### 148. Sort List
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/sort-list/submissions/2099305528
