@@ -42,3 +42,7 @@
 ### 160. Intersection of Two Linked Lists
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/2110223662
+
+### 2. Add Two Numbers
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/add-two-numbers/submissions/2110337581
