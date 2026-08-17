@@ -37,3 +37,8 @@
 ### 148. Sort List
 
 🔗 My LeetCode Solution:https://leetcode.com/problems/sort-list/submissions/2099305528
+
+
+### 160. Intersection of Two Linked Lists
+
+🔗 My LeetCode Solution:https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/2110223662
