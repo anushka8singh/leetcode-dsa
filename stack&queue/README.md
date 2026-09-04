@@ -14,3 +14,6 @@ My solution:https://leetcode.com/problems/sum-of-subarray-minimums/submissions/2
 ### 735. Asteroid Collision
 
 My solution:https://leetcode.com/problems/asteroid-collision/submissions/2124968235
+
+###  2104. Sum of Subarray Ranges
+My solution:https://leetcode.com/problems/sum-of-subarray-ranges/submissions/2130753599
