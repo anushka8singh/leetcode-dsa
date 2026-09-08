@@ -4,3 +4,6 @@ My solution:https://leetcode.com/problems/running-sum-of-1d-array/submissions/21
 ### 303. Range Sum Query - Immutable
 
 My solution: https://leetcode.com/problems/range-sum-query-immutable/submissions/2135482264
+
+### 724. Find Pivot Index
+My solution:https://leetcode.com/problems/find-pivot-index/submissions/2135504953
