@@ -13,3 +13,7 @@ My solution:https://leetcode.com/problems/subarray-sum-equals-k/submissions/2137
 
 ### 930. Binary Subarrays With Sum
 My solution: https://leetcode.com/problems/binary-subarrays-with-sum/submissions/2137907571
+
+
+### 974. Subarray Sums Divisible by K
+My solution:https://leetcode.com/problems/subarray-sums-divisible-by-k/submissions/2137919420
