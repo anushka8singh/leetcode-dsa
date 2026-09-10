@@ -10,3 +10,6 @@ My solution:https://leetcode.com/problems/find-pivot-index/submissions/213550495
 
 ### 560. Subarray Sum Equals K
 My solution:https://leetcode.com/problems/subarray-sum-equals-k/submissions/2137834579
+
+### 930. Binary Subarrays With Sum
+My solution: https://leetcode.com/problems/binary-subarrays-with-sum/submissions/2137907571
