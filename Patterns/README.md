@@ -17,3 +17,6 @@ My solution: https://leetcode.com/problems/binary-subarrays-with-sum/submissions
 
 ### 974. Subarray Sums Divisible by K
 My solution:https://leetcode.com/problems/subarray-sums-divisible-by-k/submissions/2137919420
+
+### 523. Continuous Subarray Sum
+My solution:https://leetcode.com/problems/continuous-subarray-sum/submissions/2138880233
