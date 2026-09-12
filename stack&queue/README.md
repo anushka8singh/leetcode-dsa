@@ -20,3 +20,6 @@ My solution:https://leetcode.com/problems/sum-of-subarray-ranges/submissions/213
 
 ### 402. Remove K Digits
 My solution:https://leetcode.com/problems/remove-k-digits/submissions/2131129361
+
+### Largest Rectangle in Histogram
+My solution:https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/2140007590
