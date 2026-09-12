@@ -20,3 +20,6 @@ My solution:https://leetcode.com/problems/subarray-sums-divisible-by-k/submissio
 
 ### 523. Continuous Subarray Sum
 My solution:https://leetcode.com/problems/continuous-subarray-sum/submissions/2138880233
+
+### 3. Longest Substring Without Repeating Characters
+My solution:https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2140018680
