@@ -23,3 +23,6 @@ My solution:https://leetcode.com/problems/continuous-subarray-sum/submissions/21
 
 ### 3. Longest Substring Without Repeating Characters
 My solution:https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2140018680
+
+### 242. Valid Anagram
+My solution:https://leetcode.com/problems/valid-anagram/submissions/2140898002
