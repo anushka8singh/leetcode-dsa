@@ -29,3 +29,6 @@ My solution:https://leetcode.com/problems/valid-anagram/submissions/2140898002
 
 ### 387. First Unique Character in a String
 My solution:https://leetcode.com/problems/first-unique-character-in-a-string/submissions/2140911588
+
+### 1004. Max Consecutive Ones III
+My solution:https://leetcode.com/problems/max-consecutive-ones-iii/submissions/2141010564
