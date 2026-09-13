@@ -26,3 +26,6 @@ My solution:https://leetcode.com/problems/longest-substring-without-repeating-ch
 
 ### 242. Valid Anagram
 My solution:https://leetcode.com/problems/valid-anagram/submissions/2140898002
+
+### 387. First Unique Character in a String
+My solution:https://leetcode.com/problems/first-unique-character-in-a-string/submissions/2140911588
