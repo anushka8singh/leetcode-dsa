@@ -32,3 +32,6 @@ My solution:https://leetcode.com/problems/first-unique-character-in-a-string/sub
 
 ### 1004. Max Consecutive Ones III
 My solution:https://leetcode.com/problems/max-consecutive-ones-iii/submissions/2141010564
+
+### 219. Contains Duplicate II
+My solution:https://leetcode.com/problems/contains-duplicate-ii/submissions/2143955876
