@@ -35,3 +35,6 @@ My solution:https://leetcode.com/problems/max-consecutive-ones-iii/submissions/2
 
 ### 219. Contains Duplicate II
 My solution:https://leetcode.com/problems/contains-duplicate-ii/submissions/2143955876
+
+### 217. Contains Duplicate
+My solution:https://leetcode.com/problems/contains-duplicate/submissions/2143948950
