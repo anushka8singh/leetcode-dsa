@@ -15,3 +15,6 @@ my solution:https://leetcode.com/problems/search-in-rotated-sorted-array-ii/subm
 
 ### 153. Find Minimum in Rotated Sorted Array
 my solution:https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2157382440
+
+### 540. Single Element in a Sorted Array
+my solution:https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/2157497095
