@@ -12,3 +12,6 @@ my solution:https://leetcode.com/problems/search-in-rotated-sorted-array/submiss
 
 ### 81. Search in Rotated Sorted Array II
 my solution:https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/2156312841
+
+### 153. Find Minimum in Rotated Sorted Array
+my solution:https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2157382440
