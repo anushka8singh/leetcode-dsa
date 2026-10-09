@@ -44,3 +44,6 @@ My solution:https://leetcode.com/problems/container-with-most-water/submissions/
 
 ### 350. Intersection of Two Arrays II
 my solution:https://leetcode.com/problems/intersection-of-two-arrays-ii/submissions/2167382853
+
+### 347. Top K Frequent Elements
+my solution:https://leetcode.com/problems/top-k-frequent-elements/submissions/2167404232
