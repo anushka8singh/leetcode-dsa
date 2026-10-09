@@ -41,3 +41,6 @@ My solution:https://leetcode.com/problems/contains-duplicate/submissions/2143948
 
 ### 11. Container With Most Water
 My solution:https://leetcode.com/problems/container-with-most-water/submissions/2148986817
+
+### 350. Intersection of Two Arrays II
+my solution:https://leetcode.com/problems/intersection-of-two-arrays-ii/submissions/2167382853
