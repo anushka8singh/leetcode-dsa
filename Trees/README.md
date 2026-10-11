@@ -6,3 +6,6 @@ my solution:https://leetcode.com/problems/binary-tree-level-order-traversal/subm
 
 ### 103. Binary Tree Zigzag Level Order Traversal
 my solution:https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/2168989699
+
+### 101. Symmetric Tree
+my solution:https://leetcode.com/problems/symmetric-tree/submissions/2169141658
