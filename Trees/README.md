@@ -12,3 +12,6 @@ my solution:https://leetcode.com/problems/symmetric-tree/submissions/2169141658
 
 ### 226. Invert Binary Tree
 my solution:https://leetcode.com/problems/invert-binary-tree/submissions/2169191067
+
+### 236. Lowest Common Ancestor of a Binary Tree
+my solution:https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/2169331283
