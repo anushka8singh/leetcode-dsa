@@ -9,3 +9,6 @@ my solution:https://leetcode.com/problems/binary-tree-zigzag-level-order-travers
 
 ### 101. Symmetric Tree
 my solution:https://leetcode.com/problems/symmetric-tree/submissions/2169141658
+
+### 226. Invert Binary Tree
+my solution:https://leetcode.com/problems/invert-binary-tree/submissions/2169191067
