@@ -46,3 +46,6 @@ my solution:https://leetcode.com/problems/fibonacci-number/submissions/216984197
 
 ### 50. Pow(x, n)
 my solution:https://leetcode.com/problems/powx-n/submissions/2169857193
+
+### 22. Generate Parentheses
+my solution:https://leetcode.com/problems/generate-parentheses/submissions/2169883940
