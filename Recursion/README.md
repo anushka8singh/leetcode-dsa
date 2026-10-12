@@ -43,3 +43,6 @@
 
 ### 509. Fibonacci Number
 my solution:https://leetcode.com/problems/fibonacci-number/submissions/2169841977
+
+### 50. Pow(x, n)
+my solution:https://leetcode.com/problems/powx-n/submissions/2169857193
