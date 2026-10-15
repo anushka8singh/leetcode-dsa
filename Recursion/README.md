@@ -49,3 +49,6 @@ my solution:https://leetcode.com/problems/powx-n/submissions/2169857193
 
 ### 22. Generate Parentheses
 my solution:https://leetcode.com/problems/generate-parentheses/submissions/2169883940
+
+### 78. Subsets
+my solution:https://leetcode.com/problems/subsets/submissions/2173352360
