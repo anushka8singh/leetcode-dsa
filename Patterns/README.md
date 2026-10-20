@@ -47,3 +47,6 @@ my solution:https://leetcode.com/problems/intersection-of-two-arrays-ii/submissi
 
 ### 347. Top K Frequent Elements
 my solution:https://leetcode.com/problems/top-k-frequent-elements/submissions/2167404232
+
+### 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
+https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/submissions/2176925131
