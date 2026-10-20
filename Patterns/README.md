@@ -53,3 +53,6 @@ https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater
 
 ### 1493. Longest Subarray of 1's After Deleting One
 https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/submissions/2177072119
+
+### 76. Minimum Window Substring
+https://leetcode.com/problems/minimum-window-substring/submissions/2177319834
