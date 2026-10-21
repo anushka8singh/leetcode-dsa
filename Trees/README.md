@@ -21,3 +21,6 @@ https://leetcode.com/problems/binary-tree-level-order-traversal-ii/submissions/2
 
 ### 199. Binary Tree Right Side View
 https://leetcode.com/problems/binary-tree-right-side-view/submissions/2178110936
+
+### 1161. Maximum Level Sum of a Binary Tree
+https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/submissions/2178141644
