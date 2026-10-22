@@ -24,3 +24,6 @@ https://leetcode.com/problems/binary-tree-right-side-view/submissions/2178110936
 
 ### 1161. Maximum Level Sum of a Binary Tree
 https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/submissions/2178141644
+
+### 700. Search in a Binary Search Tree
+https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/2179135607
