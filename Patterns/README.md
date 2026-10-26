@@ -56,3 +56,7 @@ https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
 
 ### 76. Minimum Window Substring
 https://leetcode.com/problems/minimum-window-substring/submissions/2177319834
+
+
+### 986. Interval List Intersections
+https://leetcode.com/problems/interval-list-intersections/submissions/2182498343
